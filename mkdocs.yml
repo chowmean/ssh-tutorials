@@ -1,0 +1,10 @@
+site_name: SSh tutorials
+nav:
+  - Home: index.md
+  - SSH introduction: ssh_intro.md
+  - SSH installation and status: ssh_install.md
+  - SSH operations: ssh_operations.md
+
+
+theme: 
+  name: material
